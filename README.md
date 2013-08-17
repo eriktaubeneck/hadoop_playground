@@ -7,7 +7,7 @@ Using data from zulip, Hacker School's chatroom, we have been doing analyses usi
 
 What does the distribution of zulip use look like? 
 
-![Answer:](messagenumplot.png?raw=true)
+![Answer:](timeplot.png?raw=true)
 
 Who gets tagged the most often in posts?
 
