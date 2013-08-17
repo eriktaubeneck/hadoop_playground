@@ -7,13 +7,13 @@ Using data from zulip, Hacker School's chatroom, we have been doing analyses usi
 
 What does the distribution of zulip use look like? 
 
-![Answer:](zuliptimeplot.pdf?raw=true)
+![Answer:](messagenumplot.png?raw=true)
 
 Who gets tagged the most often in posts?
 
 What are the daily/weekly patterns in zulip use?
 
-![Answer:](messagenumplots.pdf?arw=true)
+![Answer:](socialplot.png?raw=true)
 
 Who uses the most emojis?
 
